@@ -1,14 +1,8 @@
-# hopla-careers-playground
+# Notes
 
-## Objective
+## Description
 
-This repository serves multiple purposes:
-
-- **Onboarding and Training:** It acts as a valuable resource for onboarding and training prospective web developers from HOPLA.Online in the `careers` project.
-
-- **Technical Assessments:** It provides a platform for conducting technical assessments to evaluate candidates' skills.
-
-- **Immersive Learning Environment:** The repository offers an immersive playground environment that replicates the project's tools and structure to facilitate a comprehensive learning experience.
+A simple website to add, edit, delete notes!
 
 ## Prerequisites
 
